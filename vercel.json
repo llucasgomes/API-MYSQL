@@ -1,5 +1,5 @@
 {
-    "name": "deploy-node-in-vercel",
+    "name": "api-mysql",
     "version": 2,
     "public": true,
     "build": {
